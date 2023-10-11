@@ -9,7 +9,7 @@
 **NLP**, **Машинное обучение**
 
 ## Навыки и инструменты
-*Python*, *Pandas*, *BERT*, *nltk*, *tf-idf*, *re*, *torch*, *transformers*, *imblearn*
+*Python*, *Pandas*, *BERT*, *Nltk*, *Tf-idf*, *Re*, *Torch*, *Transformers*, *Imblearn*
 
 ## Выводы
 Сделали сбалансированную выборку, создали признаки с помощью модели BERT. 
