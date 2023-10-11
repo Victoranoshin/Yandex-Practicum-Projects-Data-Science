@@ -9,7 +9,7 @@
 **Машинное обучение**
 
 ## Навыки и инструменты
-*Python*, *Pandas*, *Scikit-learn*, *statsmodels*, *lightgbm*, *matplotlib*
+*Python*, *Pandas*, *Scikit-learn*, *Statsmodels*, *Lightgbm*, *Matplotlib*
 
 ## Выводы
 Проведен анализ данных. Построена модель для прогнозирования количества заказов такси на следующий час.
